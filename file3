@@ -1,1 +1,3 @@
-
+branch is parallel developments
+git branch <barnch name>
+git checkout <branch name>
